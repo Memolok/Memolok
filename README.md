@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to Memolok!
+
+Please use this [GitHub issue tracker](https://github.com/Memolok/Memolok/issues) for any Memolok bugs, issues, and suggestions!
 
 <!--
 **Memolok/Memolok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
