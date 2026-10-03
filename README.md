@@ -1,6 +1,14 @@
-**Memolok is the Decision Record platform.** It records decisions as *Memolok Decision Records*: structured, immutable entries capturing the need, the alternatives, and the reasoning behind a choice. [Plugin](https://github.com/Memolok/Claude-plugin) for Claude and Claude Code.
+# Memolok
 
-Please use this [GitHub issue tracker](https://github.com/Memolok/Memolok/issues) for any Memolok bugs, issues, and suggestions!
+Memolok is the place where decisions live, the Decision Record platform.
+
+It records decisions as MDRs, Memolok Decision Records: structured, immutable entries capturing the need, the alternatives, and the reasoning behind a choice, so people and AI agents can find out what was decided and why.
+
+- **[Claude-plugin](https://github.com/Memolok/Claude-plugin):** the Memolok plugin for Claude and Claude Code
+- **[Memolok-marketplace](https://github.com/Memolok/Memolok-marketplace):** the plugin marketplace for Claude Code
+- **[memolok.ai](https://www.memolok.ai/):** how it works, the free Decision Record template, and the glossary
+
+Found a bug or have a suggestion? Please use this [GitHub issue tracker](https://github.com/Memolok/Memolok/issues).
 
 <!--
 **Memolok/Memolok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
