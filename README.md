@@ -1,4 +1,4 @@
-## Welcome to Memolok!
+**Memolok is the Decision Record platform.** It records decisions as *Memolok Decision Records*: structured, immutable entries capturing the need, the alternatives, and the reasoning behind a choice. [Plugin](https://github.com/Memolok/Claude-plugin) for Claude and Claude Code.
 
 Please use this [GitHub issue tracker](https://github.com/Memolok/Memolok/issues) for any Memolok bugs, issues, and suggestions!
 
